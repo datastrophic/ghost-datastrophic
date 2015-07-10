@@ -1,2 +1,3 @@
-# ghost-datastrophic
-Ghost theme for datastrophic blog
+#ghost-datastrophic
+
+Casper-based ghost theme for [Datastrophic](http://datastrophic.io) blog
